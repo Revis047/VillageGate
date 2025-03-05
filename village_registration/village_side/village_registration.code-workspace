@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../backup/PHPMailer-master/src"
+		}
+	],
+	"settings": {}
+}
