@@ -1,4 +1,4 @@
-# village_registration-system
+# VillageGate-system
 
 
 Village Management Newcomers System - Description
